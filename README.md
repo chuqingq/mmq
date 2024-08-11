@@ -1,0 +1,2 @@
+# mmq
+Memory message queue.
